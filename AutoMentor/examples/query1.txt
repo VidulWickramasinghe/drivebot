@@ -1,0 +1,2 @@
+This is an example query.
+"What is the battery capacity of Nissan Leaf 40kWh?"
