@@ -21,3 +21,7 @@ typer[all]
 # API (Optional)
 fastapi
 uvicorn[standard]
+
+# Frontend
+streamlit
+python-multipart
