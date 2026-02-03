@@ -1,0 +1,23 @@
+# Core ML/RAG Framework
+langchain
+langchain-community
+langchain-core
+
+# Local LLM Integration
+ollama
+
+# Vector Store & Embeddings
+faiss-cpu
+sentence-transformers
+unstructured
+
+# Document Parsers
+pypdf
+pandas
+
+# CLI
+typer[all]
+
+# API (Optional)
+fastapi
+uvicorn[standard]
